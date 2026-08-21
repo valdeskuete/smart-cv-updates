@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Version initiale — placeholder. Remplacer avant publication.",
+  "pub_date": "2026-08-21T19:04:20Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "REPLACE_WITH_REAL_SIGNATURE",
+      "url": "https://raw.githubusercontent.com/valdeskuete/smart-cv-updates/main/windows-x86_64/Smart-CV_1.0.0_x64-setup.msi"
+    }
+  }
+}
