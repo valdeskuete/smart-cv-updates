@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "notes": "Changelog court",
-  "pub_date": "2026-08-22T11:15:47Z",
+  "pub_date": "2026-08-22T14:32:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzJkUzBoc1c4YU1CdTJhVXRyTGtqbk1tZE1YQU8wV01CcVVlR1lMcm03ZlNvcHZkeUZtWlBIcjh2ZWxxbHRqanliV0p1UU5RcEVlS2hEOGJVWFU0U200NWRTa3VCOFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mzk3MzQ2CWZpbGU6U21hcnQgQ1ZfMS4wLjJfeDY0X2ZyLUZSLm1zaQpybnJscVQyd052S1NpQWtRSHFCbGZoZUo1eHcrb1hZeHYrbkJsQUNTNjlpajUvSGxsV0tEREYweEhsanVIRm1TWGUvOUxTTDliRUR2QU5IT1FOVFZBQT09Cg==",
-      "url": "https://raw.githubusercontent.com/valdeskuete/smart-cv-updates/main/windows-x86_64/Smart%20CV_1.0.2_x64_fr-FR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzJkUzBoc1c4YU01amFUSVJXMGhITDZZTkh3R0Zzdkc1WWpFVFBadCtrLzNYYldObXlLeDdMWHdJekw5cVhLT2J1WmRNdE9rUDdUSmN0dk9aMWxrRDJhNm9jWXY3K1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA5MTUzCWZpbGU6U21hcnQgQ1ZfMS4wLjNfeDY0X2ZyLUZSLm1zaQpsampsL3hnRC9TeW5YNHM2YlIxNG11N0haVS93Rk1mT1NseWMvYlZ6QlZzNUZFcFFZdjdYQnlTMndZK2VGMzZsWVVndk1rbjZ0eTdoWVpCNFhkYkNBUT09Cg==",
+      "url": "https://raw.githubusercontent.com/valdeskuete/smart-cv-updates/main/windows-x86_64/Smart%20CV_1.0.3_x64_fr-FR.msi"
     }
   }
 }
