@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Changelog court",
-  "pub_date": "2026-08-22T14:32:34Z",
+  "version": "1.0.4",
+  "notes": "ajout de la fonctionctionnalité du scan text",
+  "pub_date": "2026-08-24T04:46:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzJkUzBoc1c4YU01amFUSVJXMGhITDZZTkh3R0Zzdkc1WWpFVFBadCtrLzNYYldObXlLeDdMWHdJekw5cVhLT2J1WmRNdE9rUDdUSmN0dk9aMWxrRDJhNm9jWXY3K1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA5MTUzCWZpbGU6U21hcnQgQ1ZfMS4wLjNfeDY0X2ZyLUZSLm1zaQpsampsL3hnRC9TeW5YNHM2YlIxNG11N0haVS93Rk1mT1NseWMvYlZ6QlZzNUZFcFFZdjdYQnlTMndZK2VGMzZsWVVndk1rbjZ0eTdoWVpCNFhkYkNBUT09Cg==",
-      "url": "https://raw.githubusercontent.com/valdeskuete/smart-cv-updates/main/windows-x86_64/Smart%20CV_1.0.3_x64_fr-FR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzJkUzBoc1c4YUlLS2ErRGRXK0VkbU9KdlZHTUxsRUdib1pZQ0FZR2NUOXdESnJiNll3SlVoQ015a3F6M2NPUit0dzMwbjB2UTFQeFBRY1VBYUJXeVdPQmxsWGQwMXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTQ2NzcwCWZpbGU6U21hcnQgQ1ZfMS4wLjRfeDY0X2ZyLUZSLm1zaQo4eW1tOUNSc0dOTFhBVFIvSEVwV3RNWE5sMUQwUHBWUVZjV0ZvblFteHhYM3NyWis0Wm5nbG5HVHY3dkY5WXhOUVI1a2xWR0c3MmhkT1BQQk1yVGVEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/valdeskuete/smart-cv-updates/main/windows-x86_64/Smart%20CV_1.0.4_x64_fr-FR.msi"
     }
   }
 }
