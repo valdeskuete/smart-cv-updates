@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "v1.0.5 — Nouveaux modèles CV (Professional Classic, Sidebar Classic, Sidebar Pro)",
-  "pub_date": "2026-09-19T01:20:54Z",
+  "version": "1.0.7",
+  "notes": "v1.0.7 — Nouveaux modèles CV (Professional Classic, Sidebar Classic, Sidebar Pro)",
+  "pub_date": "2026-09-19T01:38:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzJkUzBoc1c4YU9lVERRTm02ZS9rNkdLQ0lGNGpSVVFUbEJLSlcrVXRVZXhPMFN1QktuYUoxRFM5M2VyZ1NCZ1MvMEtpZmNxNUoxZmpZdmlROVpLOExCdWRuZ3BJQkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzgwODUyCWZpbGU6U21hcnQgQ1ZfMS4wLjVfeDY0X2ZyLUZSLm1zaQoxaEF3UmR2YkZJVlR2NnpoeTc0NjNqZ1pWeXE4bnh5SnJBVFJ0RVRGRmkxLy84NllvZ2ZRSWo0TXliNzNBdGNPZ09QYkNxNG10VjFtNFRBby9xTkVCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/valdeskuete/smart-cv-updates/main/windows-x86_64/Smart%20CV_1.0.5_x64_fr-FR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzJkUzBoc1c4YU8zdFFwUXBxSXVoWXNMbVpwTlNyWlFwZ3JMQ0VFWEhxdi84c2JOSEVpdGZzOWFHSUlLMm5EMko5S1NoODI2RFpYc2tocUVuYUJKZkIxeHM0eSt2QlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzgxOTI1CWZpbGU6U21hcnQgQ1ZfMS4wLjdfeDY0X2ZyLUZSLm1zaQozWXg0cEJ1QUJUU2oyYWZFZ3Q2UGtmMVhKUG1LVmRJZEdWOXRIdndOOUhialJBMGZybHBRdXRRNi9aV2lCbkg1bWhaZFlkQ3hvVXdKd1lCVHpLUzFCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/valdeskuete/smart-cv-updates/main/windows-x86_64/Smart%20CV_1.0.7_x64_fr-FR.msi"
     }
   }
 }
